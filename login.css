@@ -1,0 +1,39 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: skyblue;
+}
+.navigation-bar{
+	text-align: left;
+	background-color: cyan;
+	padding: 10px;
+}
+.navigation-bar a{
+	padding: 40px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	background: blue;
+	padding: 10px;
+	opacity: 0.4;
+}
+#log-form{
+	width: 500px;
+	position: absolute;
+		top: 150px;
+		left: 300px;
+	
+}
+legend{
+	text-align: center;
+}
+#all{
+		background-image: brown;
+}
+ input[type="submit"]{
+	background-color: green;
+	margin-left: 50%;
+	padding: 10px;
+}

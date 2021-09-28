@@ -1,0 +1,35 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: skyblue;
+}
+.navigation-bar{
+	text-align: left;
+	background-color: cyan;
+	padding: 10px;
+}
+.navigation-bar a{
+	padding: 40px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	background: blue;
+	padding: 10px;
+	opacity: 0.4;
+}
+
+
+#hd{
+	text-align: center;
+}
+#meg{
+	border: 1px grey solid;
+	border-radius: 3px;
+}
+#wlc{
+	position: absolute;
+	left: 40%;
+	top: 20%;
+}
